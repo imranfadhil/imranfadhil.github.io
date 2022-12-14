@@ -4,11 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; https://imranfadhil.github.io/ &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
-<link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=6.1" media="all">
-<link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=6.1" media="all">
-<link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=6.1" media="all">
-<link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=6.1" media="all">
-<link rel="stylesheet" id="login-css" href="./wp-admin/css/login.min.css?ver=6.1" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="login-css" href="./wp-admin/css/login.min.css?ver=6.1.1" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -41,7 +41,7 @@
 		</form>
 
 					<p id="nav">
-				<a href="./?action=lostpassword">Lost your password?</a>			</p>
+				<a href="./wp-login.php?action=lostpassword">Lost your password?</a>			</p>
 					<script type="text/javascript">function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
@@ -60,12 +60,12 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script id="password-strength-meter-js-extra">var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};</script>
-<script src="./wp-admin/js/password-strength-meter.min.js?ver=6.1" id="password-strength-meter-js"></script>
+<script src="./wp-admin/js/password-strength-meter.min.js?ver=6.1.1" id="password-strength-meter-js"></script>
 <script src="./wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
-<script src="./wp-includes/js/wp-util.min.js?ver=6.1" id="wp-util-js"></script>
+<script src="./wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"9dd06cdf04"};</script>
-<script src="./wp-admin/js/user-profile.min.js?ver=6.1" id="user-profile-js"></script>
+<script src="./wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
